@@ -11,7 +11,7 @@ namespace MyFirstStep
         static void Main(string[] args)
         {
             Console.WriteLine("MyFirstStep!");
-
+            // A new command
             Console.ReadKey();
         }
     }
